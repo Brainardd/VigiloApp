@@ -1,7 +1,5 @@
 # ViGILO
 
-![ViGILO Logo](https://via.placeholder.com/150)
-
 ## Overview
 
 Welcome to **ViGILO**—an advanced application that combines **facial recognition** and **speech recognition** technologies to create a seamless and secure user experience. This repository is dedicated to the final implementation of ViGILO, transforming cutting-edge AI models into a fully functional product.
